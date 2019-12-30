@@ -4,7 +4,7 @@ This is a simple getting to blinky project in chisel. It is an attempt at collec
 
 ## How to
 
-1. Build the scala project using `sbt runMain Blinky`
+1. Build the scala project using `sbt "run"`
 2. Build the quartus project using `de0/scripts/compile.bat`
 3. Flash the device using `de0/scripts/program.bat`
 
