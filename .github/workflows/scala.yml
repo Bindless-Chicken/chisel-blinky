@@ -15,3 +15,5 @@ jobs:
         java-version: 1.8
     - name: Generate verilog
       run: sbt "run"
+    - name: Tests
+      run: sbt "test"
