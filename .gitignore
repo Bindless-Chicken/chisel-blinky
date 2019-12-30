@@ -44,3 +44,4 @@ out/
 */timing/
 */testbench/
 */*_sim/
+/test_run_dir/
