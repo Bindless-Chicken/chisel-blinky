@@ -1,0 +1,5 @@
+QUARTUS_VERSION = "10.1"
+
+# Revisions
+
+PROJECT_REVISION = "blinky"
